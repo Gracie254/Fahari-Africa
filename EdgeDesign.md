@@ -4,18 +4,18 @@
 We designed this IoT system to help solve human wildlife conflict in several game reserves and parks around Africa.
 
 ### Main Features
--An alert system that will signal the villagers and response team when an animal has invaded the village.
--Ability to detect animals with image captions and identify the level of threat they pose.
--Easy access to data that will help the response teams to learn about certain patterns.
--Ability to obtain real time data as the event occurs.
--UI interface that displays changes in heat signatures and other telemetry.
--Messaging service for location to location communication
+- An alert system that will signal the villagers and response team when an animal has invaded the village.
+- Ability to detect animals with image captions and identify the level of threat they pose.
+- Easy access to data that will help the response teams to learn about certain patterns.
+- Ability to obtain real time data as the event occurs.
+- UI interface that displays changes in heat signatures and other telemetry.
+- Messaging service for location to location communication
 
 ### Roles of typical users
--Villagers
--Response Team
--Data analyst or related proffesions
--Site facilitator
+- Villagers
+- Response Team
+- Data analyst or related proffesions
+- Site facilitator
 
 ## user personas
 ### Persona 1
