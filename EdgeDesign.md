@@ -29,11 +29,11 @@ Beryl is a watch assistant for Amboseli national park. She is responsible for re
 
 ## User Stories
 
-As a cattle herder, I want to be notified immediately when a dangerous animal is approaching, so that I can take my animals to safety.
-As a cattle herder, I want the response team to take action immediatley, so that I can feel safe when grazing.
-As a site facilitator, I want to recieve data immediately, so that I can send notifications before any damage is done.
-As the KWS data analyst, I want to analyze real time insights, so that I can help the organization make better decisions.
-As the KWS representative, I want to obtain all data related to animal attacks, so that we can better protect wildlife.
+- As a cattle herder, I want to be notified immediately when a dangerous animal is approaching, so that I can take my animals to safety.
+- As a cattle herder, I want the response team to take action immediatley, so that I can feel safe when grazing.
+- As a site facilitator, I want to recieve data immediately, so that I can send notifications before any damage is done.
+- As the KWS data analyst, I want to analyze real time insights, so that I can help the organization make better decisions.
+- As the KWS representative, I want to obtain all data related to animal attacks, so that we can better protect wildlife.
 
 ## Service Level Indicators and Service Level Objectives
 The metrics defined below are not real values but what we aim to achieve when this solution is implemented 
