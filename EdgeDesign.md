@@ -1,6 +1,6 @@
 ## This readme is an overview of the design process and architecture of our iot system in the cloud
 
-# Fahamu Africa
+# Fahari Africa
 We designed this IoT system to help solve human wildlife conflict in several game reserves and parks around Africa.
 
 ### Main Features
